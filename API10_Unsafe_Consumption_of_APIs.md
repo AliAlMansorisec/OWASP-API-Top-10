@@ -1,4 +1,4 @@
-# 🔗 API10:Unsafe Consumption of APIs (الاستهلاك غير الآمن للـ APIs)
+# 🔗 API10:Unsafe Consumption of APIs 
 
 ---
 
